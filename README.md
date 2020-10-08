@@ -1,1 +1,1 @@
-# Trachtenberg-s-method-of-calculation-by-3
+# Trachtenberg_s_method_of_calculation_by_3
